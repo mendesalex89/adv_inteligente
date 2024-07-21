@@ -1,0 +1,33 @@
+# Arquivos do Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+*.venv
+venv.bak/
+ENV/
+myenv
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.bak
+*.swp
+*~
+temp/
